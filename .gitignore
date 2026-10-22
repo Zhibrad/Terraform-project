@@ -1,0 +1,14 @@
+# Terraform working files and state
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/crash.log
+**/*.tfvars
+
+# Private SSH keys
+**/dovekey
+**/testkey
+**/*.pem
+
+# Local IP address records
+**/private_ips.txt
